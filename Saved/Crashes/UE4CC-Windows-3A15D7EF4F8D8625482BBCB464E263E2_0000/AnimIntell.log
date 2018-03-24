@@ -1,0 +1,603 @@
+﻿Log file open, 03/19/18 02:59:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: AnimIntell
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(854738133) SRandInit(854738133).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.236509
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Unreal Engine/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.18-17.59.52:492][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-17.59.52:492][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.18-17.59.52:528][  0]LogInit: Computer: ALIENWARE15-BIL
+[2018.03.18-17.59.52:528][  0]LogInit: User: lv8c8
+[2018.03.18-17.59.52:528][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.18-17.59.52:528][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.03.18-17.59.52:529][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.18-17.59.52:529][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.18-17.59.52:529][  0]LogMemory: Process Physical Memory: 270.26 MB used, 270.26 MB peak
+[2018.03.18-17.59.52:529][  0]LogMemory: Process Virtual Memory: 267.46 MB used, 267.46 MB peak
+[2018.03.18-17.59.52:529][  0]LogMemory: Physical Memory: 4898.60 MB used,  11358.38 MB free, 16256.98 MB total
+[2018.03.18-17.59.52:529][  0]LogMemory: Virtual Memory: 670.18 MB used,  11358.38 MB free, 134217728.00 MB total
+[2018.03.18-17.59.53:958][  0]LogInit: Using OS detected language (en-US).
+[2018.03.18-17.59.53:958][  0]LogInit: Using OS detected locale (zh-HK).
+[2018.03.18-17.59.54:025][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.18-17.59.54:026][  0]LogTextLocalizationManager: No localization for 'zh-HK' exists, so 'en-US' will be used for the locale.
+[2018.03.18-17.59.54:524][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.18-17.59.57:343][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.18-17.59.57:411][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.03.18-17.59.57:411][  0]LogD3D11RHI:       8081/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.18-17.59.57:414][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.18-17.59.57:414][  0]LogD3D11RHI:       0/0/8128 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.18-17.59.57:414][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.18-17.59.57:423][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.18-17.59.57:424][  0]LogD3D11RHI:     GPU DeviceId: 0x1be1 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.18-17.59.57:424][  0]LogWindows: EnumDisplayDevices:
+[2018.03.18-17.59.57:424][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.03.18-17.59.57:424][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.03.18-17.59.57:424][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.18-17.59.57:424][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.03.18-17.59.57:425][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.18-17.59.57:425][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.03.18-17.59.57:425][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.18-17.59.57:425][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.18-17.59.57:425][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2018.03.18-17.59.57:467][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.18-17.59.57:503][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.18-17.59.57:602][  0]LogShaderCompilers: Guid format shader working directory is 24 characters bigger than the processId version (../../../../AnimIntell/Intermediate/Shaders/WorkingDirectory/3108/).
+[2018.03.18-17.59.57:602][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lv8c8/AppData/Local/Temp/UnrealShaderWorkingDir/56B3821247EF45959625AA9DC2CEFD94/'.
+[2018.03.18-17.59.57:603][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.18-18.00.00:566][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.18-18.00.00:790][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.18-18.00.01:009][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.18-18.00.01:231][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.18-18.00.01:470][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.18-18.00.01:719][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.18-18.00.01:964][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.18-18.00.02:187][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.18-18.00.02:408][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.18-18.00.02:647][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.18-18.00.02:880][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.18-18.00.03:108][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.18-18.00.03:330][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.18-18.00.03:560][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.18-18.00.03:990][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.18-18.00.03:990][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.18-18.00.04:205][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.18-18.00.04:397][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.18-18.00.04:721][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.18-18.00.04:825][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.18-18.00.05:051][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.18-18.00.05:265][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.18-18.00.05:478][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.18-18.00.05:695][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.18-18.00.05:695][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.18-18.00.07:877][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: Loaded boot cache 0.31s 77MB C:/Users/lv8c8/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lv8c8/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../AnimIntell/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../AnimIntell/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.18-18.00.08:191][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.18-18.00.08:216][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.18-18.00.08:230][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lv8c8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.18-18.00.08:244][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.18-18.00.08:249][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.18-18.00.08:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-18.00.08:268][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.18-18.00.09:275][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.18-18.00.10:613][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.18-18.00.10:807][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.18-18.00.10:808][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.18-18.00.10:808][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.18-18.00.10:808][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.18-18.00.10:808][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.18-18.00.10:893][  0]LogNetVersion: AnimIntell , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 634379085)
+[2018.03.18-18.00.11:517][  0]LogAssetRegistry: FAssetRegistry took 0.0297 seconds to start up
+[2018.03.18-18.00.12:880][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.047368 seconds
+[2018.03.18-18.00.12:886][  0]LogUObjectArray: 34935 objects as part of root set at end of initial load.
+[2018.03.18-18.00.12:886][  0]LogUObjectAllocator: 6954008 out of 0 bytes used by permanent object pool.
+[2018.03.18-18.00.12:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.18-18.00.13:163][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.18-18.00.24:169][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.18-18.00.24:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.18-18.00.26:339][  0]SourceControl: Source control is disabled
+[2018.03.18-18.00.26:339][  0]SourceControl: Source control is disabled
+[2018.03.18-18.00.26:560][  0]SourceControl: Source control is disabled
+[2018.03.18-18.00.26:779][  0]SourceControl: Source control is disabled
+[2018.03.18-18.00.31:427][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.18-18.00.31:427][  0]LogLinker: Warning: Can't find file '/Script/OnlineSubsystemUtils'
+[2018.03.18-18.00.31:914][  0]LogEngine: Initializing Engine...
+[2018.03.18-18.00.32:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.18-18.00.32:330][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.18-18.00.32:931][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.18-18.00.32:976][  0]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.18-18.00.33:064][  0]LogInit: FAudioDevice initialized.
+[2018.03.18-18.00.33:117][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/lv8c8/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.18-18.00.33:129][  0]LogInit: Texture streaming: Enabled
+[2018.03.18-18.00.33:216][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.18-18.00.34:150][  0]LogInit: Using libcurl 7.47.1
+[2018.03.18-18.00.34:150][  0]LogInit:  - built for x86_64-pc-win32
+[2018.03.18-18.00.34:150][  0]LogInit:  - supports SSL with OpenSSL/1.0.2g
+[2018.03.18-18.00.34:150][  0]LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+[2018.03.18-18.00.34:150][  0]LogInit:  - other features:
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_SSL
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_LIBZ
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_IPV6
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_ASYNCHDNS
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_LARGEFILE
+[2018.03.18-18.00.34:150][  0]LogInit:      CURL_VERSION_IDN
+[2018.03.18-18.00.34:153][  0]LogInit:  CurlRequestOptions (configurable via config and command line):
+[2018.03.18-18.00.34:153][  0]LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+[2018.03.18-18.00.34:153][  0]LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+[2018.03.18-18.00.34:153][  0]LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+[2018.03.18-18.00.34:153][  0]LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+[2018.03.18-18.00.34:253][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.18-18.00.34:851][  0]LogInit: Transaction tracking system initialized
+[2018.03.18-18.00.36:775][  0]BlueprintLog: New page: Editor Load
+[2018.03.18-18.00.41:016][  0]LocalizationService: Localization service is disabled
+[2018.03.18-18.00.44:372][  0]LogConsoleResponse: Display: 
+[2018.03.18-18.00.45:058][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.18-18.00.45:058][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.18-18.00.45:058][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.18-18.00.45:579][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/AnimIntell/Content/' took 0.02s
+[2018.03.18-18.00.49:604][  0]SourceControl: Source control is disabled
+[2018.03.18-18.00.49:606][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-18.00.49:612][  0]LightingResults: New page: Lighting Build
+[2018.03.18-18.00.49:802][  0]MapCheck: New page: Map Check
+[2018.03.18-18.00.49:802][  0]LightingResults: New page: Lighting Build
+[2018.03.18-18.00.50:311][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.18-18.00.50:337][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-18.00.50:350][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-18.00.50:485][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 135.258ms to complete.
+[2018.03.18-18.00.50:485][  0]LogFileHelpers: Loading map 'Template_Default' took 0.881
+[2018.03.18-18.00.51:004][  0]LogCollectionManager: Loaded 0 collections in 0.002446 seconds
+[2018.03.18-18.00.51:255][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/AnimIntell/Saved/Collections/' took 0.01s
+[2018.03.18-18.00.51:255][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/AnimIntell/Content/Developers/lv8c8/Collections/' took 0.01s
+[2018.03.18-18.00.51:255][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Engine/AnimIntell/Content/Collections/' took 0.01s
+[2018.03.18-18.00.51:255][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.18-18.00.51:264][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2254 classes and 466 folders.
+[2018.03.18-18.00.51:569][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.18-18.00.52:000][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.18-18.00.52:207][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.03.18-18.00.52:354][  0]LogSlate: Took 0.008180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.18-18.00.52:364][  0]LogSlate: Took 0.004961 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.18-18.00.52:372][  0]LogSlate: Took 0.004488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.18-18.00.52:541][  0]LogRenderer: Reallocating scene render targets to support 1076x532 Format 10 NumSamples 1 (Frame:1).
+[2018.03.18-18.00.52:911][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.18-18.00.52:912][  0]LogLoad: (Engine Initialization) Total time: 65.29 seconds
+[2018.03.18-18.00.52:912][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.18-18.00.52:912][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.18-18.00.52:953][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.18-18.00.53:020][  1]LogAssetRegistry: Asset discovery search completed in 41.5263 seconds
+[2018.03.18-18.00.53:022][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.18-18.00.53:022][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2018.03.18-18.01.15:873][371]LogSlate: Took 0.004774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-18.01.17:405][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.03.18-18.01.23:622][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-18.01.23:793][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-18.01.23:794][830]PIE: New page: PIE session: Untitled_1 (Mar 19, 2018, 12:01:23 PM)
+[2018.03.18-18.01.23:794][830]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2018.03.18-18.01.23:800][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006277s)
+[2018.03.18-18.01.23:801][830]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.18-18.01.23:801][830]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.03.18-18.01.23:801][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.007239s)
+[2018.03.18-18.01.23:835][830]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.18-18.01.23:910][830]LogInit: FAudioDevice initialized.
+[2018.03.18-18.01.23:953][830]LogLoad: Game class is 'GameModeBase'
+[2018.03.18-18.01.23:956][830]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 60) at 2018.03.19-03.01.23
+[2018.03.18-18.01.23:957][830]LogWorld: Bringing up level for play took: 0.001164
+[2018.03.18-18.01.24:149][830]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.03.18-18.01.24:152][830]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.109
+[2018.03.18-18.01.37:456][622]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.18-18.01.38:277][622]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.18-18.01.38:396][622]LogSkeletalMesh: Warning: Section 0 for LOD 0 in skeletal mesh SK_Bei416 has clothing associated but has 7 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.01.38:396][622]LogSkeletalMesh: Warning: Section 1 for LOD 0 in skeletal mesh SK_Bei416 has clothing associated but has 7 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.01.38:785][622]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.01.38:826][622]Cmd: MAP LOAD FILE="../../../../AnimIntell/Content/Assets/Bei_Character/Map/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-18.01.38:826][622]LightingResults: New page: Lighting Build
+[2018.03.18-18.01.38:827][622]LoadErrors: New page: Loading map: Overview.umap
+[2018.03.18-18.01.38:829][622]MapCheck: New page: Map Check
+[2018.03.18-18.01.38:829][622]LightingResults: New page: Lighting Build
+[2018.03.18-18.01.38:946][622]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-18.01.38:984][622]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-18.01.39:159][622]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 175.494ms to complete.
+[2018.03.18-18.01.39:161][622]LogFileHelpers: Loading map 'Overview' took 0.336
+[2018.03.18-18.01.39:764][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-18.01.39:781][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Bei_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.01.39:781][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-18.01.39:781][656]PIE: New page: PIE session: Overview (Mar 19, 2018, 12:01:39 PM)
+[2018.03.18-18.01.39:782][656]LogPlayLevel: Creating play world package: /Game/Assets/Bei_Character/Map/UEDPIE_0_Overview
+[2018.03.18-18.01.39:814][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031947s)
+[2018.03.18-18.01.39:814][656]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.01.39:815][656]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2018.03.18-18.01.39:815][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Bei_Character/Map/Overview.Overview to /Game/Assets/Bei_Character/Map/UEDPIE_0_Overview.Overview (0.033440s)
+[2018.03.18-18.01.39:848][656]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.18-18.01.39:921][656]LogInit: FAudioDevice initialized.
+[2018.03.18-18.01.39:958][656]LogLoad: Game class is 'BP_BeiGameMode_C'
+[2018.03.18-18.01.40:104][656]LogWorld: Bringing World /Game/Assets/Bei_Character/Map/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2018.03.19-03.01.40
+[2018.03.18-18.01.40:115][656]LogWorld: Bringing up level for play took: 0.155958
+[2018.03.18-18.01.40:134][656]PIE: Play in editor start time for /Game/Assets/Bei_Character/Map/UEDPIE_0_Overview 0.091
+[2018.03.18-18.01.40:134][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Bei_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.01.40:170][657]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.089173 > MaxSimulationTimeStep (0.050) for 'BP_BeiCharacter_C_0', movement 'Walking'
+[2018.03.18-18.01.45:968][  3]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Bei_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.01.46:015][  3]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Bei_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Bei_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.01.47:818][ 53]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.01.47:849][ 53]Cmd: MAP LOAD FILE="../../../../AnimIntell/Content/Assets/Hahn_Character/Map/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-18.01.47:849][ 53]LightingResults: New page: Lighting Build
+[2018.03.18-18.01.47:850][ 53]LoadErrors: New page: Loading map: Overview.umap
+[2018.03.18-18.01.47:855][ 53]MapCheck: New page: Map Check
+[2018.03.18-18.01.47:855][ 53]LightingResults: New page: Lighting Build
+[2018.03.18-18.01.47:979][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-18.01.48:017][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-18.01.48:226][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 208.396ms to complete.
+[2018.03.18-18.01.48:228][ 53]LogFileHelpers: Loading map 'Overview' took 0.379
+[2018.03.18-18.01.49:258][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-18.01.49:273][112]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Hahn_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.01.49:273][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-18.01.49:273][112]PIE: New page: PIE session: Overview (Mar 19, 2018, 12:01:49 PM)
+[2018.03.18-18.01.49:273][112]LogPlayLevel: Creating play world package: /Game/Assets/Hahn_Character/Map/UEDPIE_0_Overview
+[2018.03.18-18.01.49:298][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024453s)
+[2018.03.18-18.01.49:299][112]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.01.49:299][112]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2018.03.18-18.01.49:300][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Hahn_Character/Map/Overview.Overview to /Game/Assets/Hahn_Character/Map/UEDPIE_0_Overview.Overview (0.025768s)
+[2018.03.18-18.01.49:335][112]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.18-18.01.49:411][112]LogInit: FAudioDevice initialized.
+[2018.03.18-18.01.49:445][112]LogLoad: Game class is 'Hahn_GameMode_C'
+[2018.03.18-18.01.49:511][112]LogWorld: Bringing World /Game/Assets/Hahn_Character/Map/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2018.03.19-03.01.49
+[2018.03.18-18.01.49:517][112]LogWorld: Bringing up level for play took: 0.070646
+[2018.03.18-18.01.49:524][112]PIE: Play in editor start time for /Game/Assets/Hahn_Character/Map/UEDPIE_0_Overview -0.519
+[2018.03.18-18.01.49:524][112]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Hahn_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.02.30:682][557]PIE: Warning: SK_Hahn15.SkeletalMeshComponent0 SK_Hahn (bone:foot_r) has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2018.03.18-18.02.30:700][558]PIE: Warning: SK_Hahn15.SkeletalMeshComponent0 SK_Hahn (bone:foot_r) has to have 'Simulate Physics' enabled if you'd like to AddForceAtLocation. 
+[2018.03.18-18.02.53:157][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Hahn_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.02.53:198][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Hahn_Character/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Hahn_Character/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.02.54:724][963]LogSkeletalMesh: Warning: Section 1 for LOD 0 in skeletal mesh Katana_Morph_Color1 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:724][963]LogSkeletalMesh: Warning: Section 3 for LOD 0 in skeletal mesh Katana_Morph_Color1 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:724][963]LogSkeletalMesh: Warning: Section 7 for LOD 0 in skeletal mesh Katana_Morph_Color1 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:724][963]LogSkeletalMesh: Warning: Section 8 for LOD 0 in skeletal mesh Katana_Morph_Color1 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:795][963]LogSkeletalMesh: Warning: Section 1 for LOD 0 in skeletal mesh Katana_Morph_Color2 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:795][963]LogSkeletalMesh: Warning: Section 3 for LOD 0 in skeletal mesh Katana_Morph_Color2 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:795][963]LogSkeletalMesh: Warning: Section 7 for LOD 0 in skeletal mesh Katana_Morph_Color2 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:795][963]LogSkeletalMesh: Warning: Section 8 for LOD 0 in skeletal mesh Katana_Morph_Color2 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:925][963]LogSkeletalMesh: Warning: Section 1 for LOD 0 in skeletal mesh Katana_Morph_Color3 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:925][963]LogSkeletalMesh: Warning: Section 3 for LOD 0 in skeletal mesh Katana_Morph_Color3 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:926][963]LogSkeletalMesh: Warning: Section 7 for LOD 0 in skeletal mesh Katana_Morph_Color3 has clothing associated but has 8 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:926][963]LogSkeletalMesh: Warning: Section 8 for LOD 0 in skeletal mesh Katana_Morph_Color3 has clothing associated but has 5 influences. Clothing only supports a maximum of 4 influences - reduce influences on chunk and reimport mesh.
+[2018.03.18-18.02.54:930][963]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.02.54:950][963]Cmd: MAP LOAD FILE="../../../../AnimIntell/Content/Assets/Katanami/Map/Overview.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-18.02.54:950][963]LightingResults: New page: Lighting Build
+[2018.03.18-18.02.54:952][963]LoadErrors: New page: Loading map: Overview.umap
+[2018.03.18-18.02.54:959][963]MapCheck: New page: Map Check
+[2018.03.18-18.02.54:959][963]LightingResults: New page: Lighting Build
+[2018.03.18-18.02.55:109][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-18.02.55:143][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-18.02.55:392][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 249.041ms to complete.
+[2018.03.18-18.02.55:394][963]LogFileHelpers: Loading map 'Overview' took 0.445
+[2018.03.18-18.02.59:574][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor)
+[2018.03.18-18.03.00:828][284]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.18-18.03.00:848][284]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Katanami/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.03.00:848][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.18-18.03.00:848][284]PIE: New page: PIE session: Overview (Mar 19, 2018, 12:03:00 PM)
+[2018.03.18-18.03.00:848][284]LogPlayLevel: Creating play world package: /Game/Assets/Katanami/Map/UEDPIE_0_Overview
+[2018.03.18-18.03.00:870][284]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021932s)
+[2018.03.18-18.03.00:871][284]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.03.00:871][284]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.03.18-18.03.00:871][284]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Assets/Katanami/Map/Overview.Overview to /Game/Assets/Katanami/Map/UEDPIE_0_Overview.Overview (0.023232s)
+[2018.03.18-18.03.00:911][284]LogInit: XAudio2 using 'スピーカー / ヘッドホン (Realtek Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.03.18-18.03.00:989][284]LogInit: FAudioDevice initialized.
+[2018.03.18-18.03.01:019][284]LogLoad: Game class is 'GameMode_Katanami_C'
+[2018.03.18-18.03.01:051][284]LogWorld: Bringing World /Game/Assets/Katanami/Map/UEDPIE_0_Overview.Overview up for play (max tick rate 60) at 2018.03.19-03.03.01
+[2018.03.18-18.03.01:051][284]LogWorld: Bringing up level for play took: 0.031238
+[2018.03.18-18.03.01:071][284]PIE: Play in editor start time for /Game/Assets/Katanami/Map/UEDPIE_0_Overview 1.029
+[2018.03.18-18.03.01:072][284]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Katanami/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.03.32:426][164]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Katanami/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.03.32:459][164]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel' has LevelScriptBlueprint '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview' with GeneratedClass '/Game/Assets/Katanami/Map/Overview.Overview_C' with ClassGeneratedBy '/Game/Assets/Katanami/Map/Overview.Overview:PersistentLevel.Overview'
+[2018.03.18-18.03.56:655][538]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.18-18.03.56:674][538]LightingResults: New page: Lighting Build
+[2018.03.18-18.03.56:675][538]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.03.18-18.03.56:679][538]MapCheck: New page: Map Check
+[2018.03.18-18.03.56:679][538]LightingResults: New page: Lighting Build
+[2018.03.18-18.03.56:716][538]LogAIModule: Creating AISystem for world Untitled_2
+[2018.03.18-18.03.56:822][538]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.18-18.03.56:842][538]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.18-18.03.57:068][538]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 226.495ms to complete.
+[2018.03.18-18.03.57:069][538]LogFileHelpers: Loading map 'Template_Default' took 0.415
+[2018.03.18-18.04.19:920][903]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.18-18.04.20:117][903]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.04.21:159][903]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.04.21:423][903]LogAIModule: Creating AISystem for world Overview
+[2018.03.18-18.04.56:060][903]LogStaticMesh: Building static mesh SM_Spear...
+[2018.03.18-18.04.56:075][903]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Bei_Character/Meshes/SM_Spear.SM_Spear
+[2018.03.18-18.04.56:081][903]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (3 / 2)
+[2018.03.18-18.04.56:110][903]LogStaticMesh: Building static mesh Dagger...
+[2018.03.18-18.04.56:119][903]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Hahn_Character/Meshes/Dagger.Dagger
+[2018.03.18-18.04.56:137][903]LogMaterial: Missing cached shader map for material Mat_Trail, compiling. 
+[2018.03.18-18.04.56:138][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_Trail.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:138][903]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.18-18.04.56:149][903]LogMaterial: Missing cached shader map for material Mat_BaseColor, compiling. 
+[2018.03.18-18.04.56:150][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:150][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:152][903]LogMaterial: Missing cached shader map for material Mat_BaseColor, compiling. 
+[2018.03.18-18.04.56:153][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:153][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:155][903]LogMaterial: Missing cached shader map for material Mat_BaseColor, compiling. 
+[2018.03.18-18.04.56:156][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:156][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:159][903]LogMaterial: Missing cached shader map for material Mat_BaseColor, compiling. 
+[2018.03.18-18.04.56:159][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:159][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:161][903]LogMaterial: Missing cached shader map for material Mat_BaseColor, compiling. 
+[2018.03.18-18.04.56:162][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_BaseColor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:162][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:200][903]LogMaterial: Missing cached shader map for material Mat_Eyes, compiling. 
+[2018.03.18-18.04.56:200][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Eyes.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:200][903]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.18-18.04.56:208][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:209][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:209][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:211][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:212][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:212][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:215][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:216][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:216][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:218][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:219][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:219][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:221][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:222][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:222][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:224][903]LogMaterial: Missing cached shader map for material Mat_TextureMask, compiling. 
+[2018.03.18-18.04.56:224][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_TextureMask.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:225][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:228][903]LogMaterial: Missing cached shader map for material Mat_Floor, compiling. 
+[2018.03.18-18.04.56:229][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Bei_Character\Materials\Mat_Floor.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:229][903]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.18-18.04.56:230][903]LogStaticMesh: Building static mesh SM_Floor...
+[2018.03.18-18.04.56:231][903]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Bei_Character/Geometry/Meshes/SM_Floor.SM_Floor
+[2018.03.18-18.04.56:243][903]LogMaterial: Missing cached shader map for material Mat_Base_WithAlpha, compiling. 
+[2018.03.18-18.04.56:244][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base_WithAlpha.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:244][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:247][903]LogMaterial: Missing cached shader map for material Mat_Base_WithAlpha, compiling. 
+[2018.03.18-18.04.56:247][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base_WithAlpha.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:247][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:250][903]LogMaterial: Missing cached shader map for material Mat_Base_WithAlpha, compiling. 
+[2018.03.18-18.04.56:251][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base_WithAlpha.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:251][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:253][903]LogMaterial: Missing cached shader map for material Mat_Base_WithAlpha, compiling. 
+[2018.03.18-18.04.56:254][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base_WithAlpha.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:254][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:257][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:258][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:258][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:261][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:261][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:261][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:263][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:264][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Hahn_Character\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:264][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:274][903]LogStaticMesh: Building static mesh Mesh_Wine_Bottle...
+[2018.03.18-18.04.56:276][903]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Katanami/Meshes/OldVersion/Mesh_Wine_Bottle.Mesh_Wine_Bottle
+[2018.03.18-18.04.56:279][903]LogStaticMesh: Building static mesh Mesh_Katana...
+[2018.03.18-18.04.56:288][903]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Katanami/Meshes/OldVersion/Mesh_Katana.Mesh_Katana
+[2018.03.18-18.04.56:332][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:333][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:333][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:336][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:337][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:337][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:340][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:341][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:341][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:343][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:344][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:344][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:346][903]LogMaterial: Missing cached shader map for material Mat_Base, compiling. 
+[2018.03.18-18.04.56:347][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Materials\Mat_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:347][903]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.03.18-18.04.56:382][903]LogMaterial: Missing cached shader map for material Mat_Trail, compiling. 
+[2018.03.18-18.04.56:383][903]LogMaterial: Warning: C:\Unreal Engine\AnimIntell\Content\Assets\Katanami\Particles\Mat_Trail.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.18-18.04.56:383][903]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.03.18-18.04.57:943][903]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.120 s
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: 
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: Ensure condition failed: CurObject != NULL [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\ObjectTools.cpp] [Line: 2325]
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: 
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: Stack: 
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000FBA12786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000FB7B123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000FB7CB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C58B517B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C508F989 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C530D292 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C5294C92 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C5297CA9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000C5305A85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:943][903]LogOutputDevice: Error: [Callstack] 0x00000000DE842B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE86EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE685EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE658095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6F28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6DB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6CD902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB37E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB371A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB3803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB36D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001D54B85D USER32.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001D54B1EF USER32.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB381479 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6FDB46 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE68F3A2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000C539AB1C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000C58AB553 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B67A744D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B68BA7F4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B6810B1E UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B6816449 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B68B50B5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B67A95A7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B680EDF9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B6723FC2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B6727389 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000B67AC675 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE842B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE86EA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE685EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE658095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6F28A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6DB092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000DE6CD902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB37E54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB371A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB3803EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB36D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001D54B85D USER32.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001D54B1EF USER32.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000FB381516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000616D50C8 UE4Editor.exe!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000616E5430 UE4Editor.exe!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000616E54AA UE4Editor.exe!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000616F2379 UE4Editor.exe!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x00000000616F3D57 UE4Editor.exe!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001DC81FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: [Callstack] 0x000000001EC9EFC1 ntdll.dll!UnknownFunction []
+[2018.03.18-18.04.57:944][903]LogOutputDevice: Error: 
+[2018.03.18-18.04.57:945][903]LogStats:                SubmitErrorReport -  0.000 s
